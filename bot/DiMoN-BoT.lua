@@ -226,8 +226,8 @@ function create_config( )
     "leave_ban",
     "supergroup",
     },
-    sudo_users = {192658394},--Sudo users
-    DiMoN = {268968457},
+    sudo_users = {211752618},--Sudo users
+    DiMoN = {207325566},
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
